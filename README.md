@@ -1,5 +1,9 @@
 # Spacecraft Ops Console
 
+<p align="center">
+  <img src="assets/logo.png" width="250"/>
+</p>
+
 A Python-based spacecraft telemetry and command project using Kerbal Space Program as a simulation backend, interfaced through kRPC.
 
 ## Overview
